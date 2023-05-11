@@ -14,6 +14,9 @@ local.properties
 .loadpath
 .recommenders
 
+# Volume Docker
+.data
+
 # External tool builders
 .externalToolBuilders/
 
